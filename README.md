@@ -3,6 +3,7 @@
 <p>BONUS! Polskie wersje Maluch Racera (MR1 jako plik ISO i MR2 jako instalator .EXE)</p>
 
 <h2>Szybkie info:</h2>
+<p>Programy na płytach <b>powinny</b> działać na Windows 98, Windows 2000, Windows XP, Windows Vista i Windows 7. (nie sprawdzone na Win98 i Win2000)</p>
 <h3>Projekt jest zbiorem opublicznionych plików z internetu, szczegolnie z Internet Archive.</h3>
 <b>Creditsy do riperów i crawlerów, bez nich repo by nie powstało❤️</b>
 
