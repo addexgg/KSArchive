@@ -1,4 +1,4 @@
-# KSArchive
+# KSArchive WIP
 <p>Archiwum płyt CD i DVD z magazynów KomputerŚwiat od 2005-2015</p>
 <p>BONUS! Polskie wersje Maluch Racera (MR1 jako plik ISO i MR2 jako instalator .EXE)</p>
 
