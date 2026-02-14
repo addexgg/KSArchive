@@ -1,8 +1,8 @@
-# Dekada
+# KSArchive
 Archiwum płyt CD i DVD z magazynów KomputerŚwiat od 2005-2015
 
 <h2>Szybkie info:</h2>
-<h3>Repozytorium to jest zbiorem opublicznionych plików z internetu, szczegolnie z Internet Archive.</h3>
+<h3>Projekt jest zbiorem opublicznionych plików z internetu, szczegolnie z Internet Archive.</h3>
 <b>Creditsy do riperów i crawlerów, bez nich repo by nie powstało❤️</b>
 
 <h2>Instrukcje wypalania plików na fizyczną płytę CD/DVD </h2>
